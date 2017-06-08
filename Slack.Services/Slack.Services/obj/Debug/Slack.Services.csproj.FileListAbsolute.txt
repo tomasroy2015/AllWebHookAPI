@@ -1,0 +1,10 @@
+C:\Development\allbots.api2\Services\Slack.Services\bin\Debug\Slack.Services.dll
+C:\Development\allbots.api2\Services\Slack.Services\bin\Debug\Slack.Services.pdb
+C:\Development\allbots.api2\Services\Slack.Services\obj\Debug\Slack.Services.csprojResolveAssemblyReference.cache
+C:\Development\allbots.api2\Services\Slack.Services\obj\Debug\Slack.Services.dll
+C:\Development\allbots.api2\Services\Slack.Services\obj\Debug\Slack.Services.pdb
+E:\Iman Poy\Slack.Services\Slack.Services\bin\Debug\Slack.Services.dll
+E:\Iman Poy\Slack.Services\Slack.Services\bin\Debug\Slack.Services.pdb
+E:\Iman Poy\Slack.Services\Slack.Services\obj\Debug\Slack.Services.csprojResolveAssemblyReference.cache
+E:\Iman Poy\Slack.Services\Slack.Services\obj\Debug\Slack.Services.dll
+E:\Iman Poy\Slack.Services\Slack.Services\obj\Debug\Slack.Services.pdb

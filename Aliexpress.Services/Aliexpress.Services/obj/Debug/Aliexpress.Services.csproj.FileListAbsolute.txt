@@ -1,0 +1,12 @@
+C:\Development\allbots.api2\Services\Aliexpress.Services\bin\Debug\Aliexpress.Services.dll
+C:\Development\allbots.api2\Services\Aliexpress.Services\bin\Debug\Aliexpress.Services.pdb
+C:\Development\allbots.api2\Services\Aliexpress.Services\bin\Debug\APIManager.Core.dll
+C:\Development\allbots.api2\Services\Aliexpress.Services\bin\Debug\APIManager.Core.pdb
+C:\Development\allbots.api2\Services\Aliexpress.Services\obj\Debug\Aliexpress.Services.csprojResolveAssemblyReference.cache
+C:\Development\allbots.api2\Services\Aliexpress.Services\obj\Debug\Aliexpress.Services.dll
+C:\Development\allbots.api2\Services\Aliexpress.Services\obj\Debug\Aliexpress.Services.pdb
+E:\Iman Poy\Aliexpress.Services\Aliexpress.Services\bin\Debug\Aliexpress.Services.dll
+E:\Iman Poy\Aliexpress.Services\Aliexpress.Services\bin\Debug\Aliexpress.Services.pdb
+E:\Iman Poy\Aliexpress.Services\Aliexpress.Services\obj\Debug\Aliexpress.Services.csprojResolveAssemblyReference.cache
+E:\Iman Poy\Aliexpress.Services\Aliexpress.Services\obj\Debug\Aliexpress.Services.dll
+E:\Iman Poy\Aliexpress.Services\Aliexpress.Services\obj\Debug\Aliexpress.Services.pdb

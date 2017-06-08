@@ -1,0 +1,18 @@
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\APIManager.Core.dll
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\APIManager.Core.pdb
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\Microsoft.Data.OData.dll
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\Microsoft.Data.Edm.dll
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\System.Spatial.dll
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\Microsoft.Data.OData.xml
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\Microsoft.Data.Edm.xml
+C:\Development\allbots.api2\Core\APIManager.Core\bin\Debug\System.Spatial.xml
+C:\Development\allbots.api2\Core\APIManager.Core\obj\Debug\APIManager.Core.csprojResolveAssemblyReference.cache
+C:\Development\allbots.api2\Core\APIManager.Core\obj\Debug\APIManager.Core.dll
+C:\Development\allbots.api2\Core\APIManager.Core\obj\Debug\APIManager.Core.pdb
+E:\Iman Poy\Core\APIManager.Core\bin\Debug\APIManager.Core.dll
+E:\Iman Poy\Core\APIManager.Core\bin\Debug\APIManager.Core.pdb
+E:\Iman Poy\Core\APIManager.Core\bin\Debug\Microsoft.Data.OData.dll
+E:\Iman Poy\Core\APIManager.Core\bin\Debug\Microsoft.Data.Edm.dll
+E:\Iman Poy\Core\APIManager.Core\obj\Debug\APIManager.Core.csprojResolveAssemblyReference.cache
+E:\Iman Poy\Core\APIManager.Core\obj\Debug\APIManager.Core.dll
+E:\Iman Poy\Core\APIManager.Core\obj\Debug\APIManager.Core.pdb

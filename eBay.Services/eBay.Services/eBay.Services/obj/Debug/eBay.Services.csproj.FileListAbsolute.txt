@@ -1,0 +1,15 @@
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\bin\Debug\eBay.Services.dll
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\bin\Debug\eBay.Services.pdb
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\bin\Debug\APIManager.Core.dll
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\bin\Debug\eBay.Service.dll
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\bin\Debug\SLF.dll
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\bin\Debug\APIManager.Core.pdb
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\obj\Debug\eBay.Services.csprojResolveAssemblyReference.cache
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\obj\Debug\eBay.Services.dll
+C:\Development\allbots.api2\Services\eBay.Services\eBay.Services\obj\Debug\eBay.Services.pdb
+E:\Iman Poy\eBay.Services\eBay.Services\eBay.Services\obj\Debug\eBay.Services.csprojResolveAssemblyReference.cache
+E:\Iman Poy\eBay.Services\eBay.Services\eBay.Services\obj\Debug\eBay.Services.dll
+E:\Iman Poy\eBay.Services\eBay.Services\eBay.Services\obj\Debug\eBay.Services.pdb
+E:\Iman Poy\eBay.Services\eBay.Services\eBay.Services\bin\Debug\eBay.Services.pdb
+E:\Iman Poy\eBay.Services\eBay.Services\eBay.Services\bin\Debug\eBay.Service.dll
+E:\Iman Poy\eBay.Services\eBay.Services\eBay.Services\bin\Debug\SLF.dll

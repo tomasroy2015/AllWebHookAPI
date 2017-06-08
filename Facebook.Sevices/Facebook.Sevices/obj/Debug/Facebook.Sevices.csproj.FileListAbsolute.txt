@@ -1,0 +1,13 @@
+C:\Development\allbots.api2\Services\Facebook.Sevices\bin\Debug\Facebook.Sevices.dll
+C:\Development\allbots.api2\Services\Facebook.Sevices\bin\Debug\Facebook.Sevices.pdb
+C:\Development\allbots.api2\Services\Facebook.Sevices\bin\Debug\APIManager.Core.dll
+C:\Development\allbots.api2\Services\Facebook.Sevices\bin\Debug\APIManager.Core.pdb
+C:\Development\allbots.api2\Services\Facebook.Sevices\obj\Debug\Facebook.Sevices.csprojResolveAssemblyReference.cache
+C:\Development\allbots.api2\Services\Facebook.Sevices\obj\Debug\Facebook.Sevices.dll
+C:\Development\allbots.api2\Services\Facebook.Sevices\obj\Debug\Facebook.Sevices.pdb
+E:\Iman Poy\Facebook.Sevices\Facebook.Sevices\bin\Debug\Facebook.Sevices.dll
+E:\Iman Poy\Facebook.Sevices\Facebook.Sevices\bin\Debug\Facebook.Sevices.pdb
+E:\Iman Poy\Facebook.Sevices\Facebook.Sevices\bin\Debug\APIManager.Core.pdb
+E:\Iman Poy\Facebook.Sevices\Facebook.Sevices\obj\Debug\Facebook.Sevices.csprojResolveAssemblyReference.cache
+E:\Iman Poy\Facebook.Sevices\Facebook.Sevices\obj\Debug\Facebook.Sevices.dll
+E:\Iman Poy\Facebook.Sevices\Facebook.Sevices\obj\Debug\Facebook.Sevices.pdb

@@ -1,0 +1,5 @@
+C:\Development\allbots.api2\Core\Twitter.Core\Tweetinvi.Security\bin\Debug\Tweetinvi.Security.dll
+C:\Development\allbots.api2\Core\Twitter.Core\Tweetinvi.Security\bin\Debug\Tweetinvi.Security.pdb
+C:\Development\allbots.api2\Core\Twitter.Core\Tweetinvi.Security\obj\Debug\Tweetinvi.Security.csprojResolveAssemblyReference.cache
+C:\Development\allbots.api2\Core\Twitter.Core\Tweetinvi.Security\obj\Debug\Tweetinvi.Security.dll
+C:\Development\allbots.api2\Core\Twitter.Core\Tweetinvi.Security\obj\Debug\Tweetinvi.Security.pdb
